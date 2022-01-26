@@ -32,9 +32,5 @@ Clone the git repo
 git clone git@github.com:hemxism96/Boyer_Moore.git
 ```
 
-## Function
-
-The code includes the explainations of each function so take them look at please.
-
 ## Author
 Suyeon CHO
